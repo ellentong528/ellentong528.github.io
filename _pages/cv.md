@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ed.M. in Human Development and Education, Harvard Graduate School of Education, 2026 (expected)
+* B.A. in Psychology with a minor in Education, University of California, Berkeley, 2025
 
 Work experience
 ======
