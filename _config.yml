@@ -24,10 +24,10 @@ repository               : "ellentong528/ellentong528.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ellen Tong"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Boston, MA"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
