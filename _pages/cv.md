@@ -12,30 +12,41 @@ redirect_from:
 Education
 ======
 * Ed.M. in Human Development and Education, Harvard Graduate School of Education, May 2026 (expected)
+  * I love school!
+  * Still debating if I should do a PhD and what it means to me.
+  * Unexpectedly fell in love with quantitative analyses.
   
 * B.A. in Psychology with a minor in Education, University of California, Berkeley (Aug 2021 - May 2025)
-  * Highest Honors conferred, Jul 2025
   * Psychology Commencement Speaker, May 2025
-  * Departmental Citation, May 2025
-  * Phi Beta Kappa, May 2025
+  * Departmental Citation
+  * Highest Honors in Psychology
+  * High Distinction in General Scholarship
+  * Phi Beta Kappa
+
+Student leadership experience
+======
+It’s a long story, but student leadership was an indispensable part of my college experience and something I simply can’t leave out (I probably spent more time on student leadership than on school and work combined). See my [Student Leadership](/student-leadership) page for more details about my community involvement and my student body Senate office!
 
 Research experience
 ======
-New stuff is on its way! Will update soon.
+I got interested in cognitive developmental research (and research in general) pretty late in my undergrad and wish I’d started earlier, but I’ve never regretted a single second of it and am still exploring lots of topics that fascinate me. Below are a few:
 
 * Sep 2025 - present: Learning Media Lab, Harvard Graduate School of Education (Cambridge, MA)
   * **Graduate Research Assistant** (PI: Dr. Ying Xu)
+  * I am currently involved in a project that looks at how social-verbal cues that imply human-likeness could potentially influence children's judgments about the accuracy and the source of information provided by a voice-based agent.
   * More to come!
  
 * Sep 2025 - present: Snedeker Lab (Cambridge, MA)
   * **Graduate Research Assistant** (PI: Jesse Snedeker)
+  * I am currently involved in a project that examines whether infants can compose familiar physical functions on a single object _before_ they understand compositional language.
   * More to come!
 
 * Jun 2024 - May 2025: Berkeley Early Learning Lab (Berkeley, CA)
   * **Honors Thesis Student** (PI: Fei Xu)
   * _Interested in how children tackle and reason about uncertainties to inform their decisions._
   * Examined deductive reasoning and representation of possibilities in preschoolers using disjunctive syllogism tasks
-  * Investigated the development of posterior probability reasoning in 3-6-year-olds
+  * Investigated the development of posterior probability reasoning in 3-6-year-olds (what my honors thesis is about!)
+  * Check out my honors thesis [here](/images/Tong-E-Thesis-Sp25.pdf)! This was the very first time I wrote about my own research - hopefully not too bad!
 
 * Sep 2023 - May 2024: Computation and Language Lab (Berkeley, CA)
   * **Undergraduate Research Assistant** (PI: Steven Piantadosi)
@@ -61,10 +72,6 @@ Work experience
   * Collaborated with instructors to enhance tutoring lessons with interactive pedagogy and alignment to AP standards.
   * Led 10 class sections, offering individual office hours and question banks.
 
-Student leadership experience
-======
-It’s a long story, but student leadership was an indispensable part of my college experience and something I can’t leave out (I probably spent more time on student leadership than on school and work combined). See my [Student Leadership](/student-leadership) page for more details!
-
 Classroom volunteering experience
 ======
 * _I love working with kids! I will put some pictures here soon!_
@@ -86,4 +93,4 @@ Publications
 Alderete S., **Tong, E.**, Cao, A., Piantadosi, S. & Xu, F. Young Children’s Understanding of Prior and Posterior Probabilities.
 46th Annual Conference of the Cognitive Science Society; July-August 2025; San Francisco, CA.
 
-_Oops that's it for now_ 😢 _! But I will probably write more._
+_Oops there's only one for now_ 😢 _! But I will probably write more in the future. We'll see!_
