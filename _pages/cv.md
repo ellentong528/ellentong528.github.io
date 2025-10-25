@@ -21,6 +21,8 @@ Education
 
 Research experience
 ======
+New stuff is on its way! Will update soon.
+
 * Sep 2025 - present: Learning Media Lab, Harvard Graduate School of Education (Cambridge, MA)
   * **Graduate Research Assistant** (PI: Dr. Ying Xu)
   * More to come!
@@ -61,7 +63,7 @@ Work experience
 
 Student leadership experience
 ======
-Oops it's a long story. I probably spent more time on student leadership than on school and work combined. See my “Student Leadership” tab for more details
+It’s a long story, but student leadership was an indispensable part of my college experience and something I can’t leave out (I probably spent more time on student leadership than on school and work combined). See my [Student Leadership](/student-leadership) page for more details!
 
 Classroom volunteering experience
 ======
