@@ -46,7 +46,7 @@ I got interested in cognitive developmental research (and research in general) p
   * _Interested in how children tackle and reason about uncertainties to inform their decisions._
   * Examined deductive reasoning and representation of possibilities in preschoolers using disjunctive syllogism tasks
   * Investigated the development of posterior probability reasoning in 3-6-year-olds (what my honors thesis is about!)
-  * Check out my honors thesis [here](/images/Tong-E-Thesis-Sp25.pdf)! This was the very first time I wrote about my own research - hopefully not too bad!
+  * Check out my honors thesis [here](../images/Tong-E-Thesis-Sp25.pdf)! This was the very first time I wrote about my own research - hopefully not too bad!
 
 * Sep 2023 - May 2024: Computation and Language Lab (Berkeley, CA)
   * **Undergraduate Research Assistant** (PI: Steven Piantadosi)
