@@ -58,7 +58,7 @@ It’s a long story, but student leadership was an indispensable part of my coll
 
 Research experience
 ======
-I got interested in cognitive developmental research (and research in general) pretty late in my undergrad and wish I’d started earlier, but I’ve never regretted a single second of it and am still exploring lots of topics that fascinate me. Below are a few:
+I got interested in cognitive developmental research (and research in general) pretty late in my undergrad and wish I’d started earlier, but I’ve never regretted a single second of it and am still exploring lots of topics that fascinate me. Below are a few. Please refer to my [Research](/research) tab for more.
 
 * Sep 2025 - present: Learning Media Lab, Harvard Graduate School of Education (Cambridge, MA)
   * **Graduate Research Assistant** (PI: Dr. Ying Xu)
