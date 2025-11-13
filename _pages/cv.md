@@ -128,7 +128,7 @@ Classroom volunteering experience
 
 Publications
 ======
-Alderete S., **Tong, E.**, Cao, A., Piantadosi, S. & Xu, F. Young Children’s Understanding of Prior and Posterior Probabilities.
-46th Annual Conference of the Cognitive Science Society; July-August 2025; San Francisco, CA.
+[Alderete S., **Tong, E.**, Cao, A., Piantadosi, S. & Xu, F. Young Children’s Understanding of Prior and Posterior Probabilities.
+46th Annual Conference of the Cognitive Science Society; July-August 2025; San Francisco, CA.](../images/CogSci2025.pdf)
 
 _Oops there's only one for now_ 😢 _! But I will probably write more in the future. We'll see!_
