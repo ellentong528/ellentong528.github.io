@@ -27,12 +27,18 @@ Student leadership experience
 It’s a long story, but student leadership was an indispensable part of my college experience and something I simply can’t leave out (I probably spent more time on student leadership than on school and work combined). See my [Student Leadership](/student-leadership) page for more details about my community involvement. TDLR below:
 
 * Jan 2022 - May 2025: Associated Students of the University of California (Berkeley, CA)
+
+  <img src="../images/asuc-group.jpg" style="width:800px;">
+-
   * **Jan 2022 - Jul 2022: Campaign Outreach Coordinator for ASUC Senator Charles Peng:** Led a team of 15+ members to reach out to the broader international student body for voting; contacted 100+ students regarding senatorial campaigns; managed 2 campaign support groups.
   * **Jul 2022 - May 2023: Director of Community Relations, Office of ASUC Senator Charles Peng:** Led a team of 6, oversaw and managed 13 large-scale or regular projects; generated & posted 19 promotional contents on social media; served as the chief point of contact for and checked in regularly with on-campus East Asian clubs to ensure progress; promoted East Asian expressiveness and welfare on-campus through in-person and virtual projects such as the EA club fair, executive town hall, and Our Stories - an East Asian interview project.
   * **May 2023 - May 2024: External Chief of Staff, Office of ASUC Senator H:** Served as the Senator’s manager for ASUC Senate Affairs, University Affairs, and External Affairs, and Office Chief of Finance; served as Office’s spokesperson as needed; responsible for maintaining Office’s external relations with ASUC Executive-Elects, Senator-Elects, Appointed Officers, and University Admins and Committee and Commission oversees and sit in.
   * **May 2024 - May 2025: ASUC Senator:** Elected to be one of the 20 ASUC Senators (ranked #5/20). Elected Official & board of directors for the 501(c)(3) Non-Profit Organization, East Asian Caucus endorsed & international student community leader, Head of the Office of ASUC Senator Ellen Tong.
 
 * Jan 2022 - May 2025: Chinese People Union (Berkeley, CA)
+  
+  <img src="../images/cpu-board.JPG" style="width:800px;">
+-
   * **Jan 2022 - Dec 2022: Intern, Culture Department:** below are the projects I have led
     * Casino Night, Spring 2022
     * First Official Party "Throwback Prom", Spring 2022
@@ -51,6 +57,9 @@ It’s a long story, but student leadership was an indispensable part of my coll
     * Graphic design projects
 
 * Jan 2022 - Apr 2024: Spring Foundation (Berkeley, CA)
+  
+  <img src="../images/spring-foundation.JPG" style="width:800px;">
+-
   * **Jan 2022 - Jul 2022: Project Team Member, Operations VP Team Member:** As a part of the operations team, draft and format social media articles for the club; as a part of the charity dinner project team, brainstormed event ideas and theme and designed event logistics along with the rest of the team of 7.
   * **Jul 2022 - Dec 2022: Project Lead:** Lead the Charity Dinner (Roundtable) Project Team (6 people in total); assigned weekly tasks regarding event logistics and panelist outreach; conduct meetings with non-profit organizations to invite them to the event while also establishing long-term connections.
   * **Nov 2022 - Nov 2023: Internal Vice President:** Arrange weekly bonding events open to all club members and regular retreats and club-wide activities; connect with graduated alumni to organize alumni social mixers; design and distribute club merchandises to members and promote club culture campus-wide.
