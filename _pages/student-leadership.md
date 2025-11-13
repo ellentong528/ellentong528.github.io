@@ -25,6 +25,8 @@ Soon after, Charles gave me a “promotion,” and I became the outreach coordin
 
 In April 2022, Charles won his campaign and became a senator-elect. I screamed like crazy.
 
+![Charles' Tabulation](../images/charles-senate.jpg)
+
 Charles and his chiefs of staff trusted me completely. The following fall, during my sophomore year, they appointed me as Charles’s Director of Community Relations in his Senate office. Normally, people had to spend a year working as an associate before landing a director role. I was so happy and honestly touched that Charles and his team believed in me, always hyping me up and saying good things to keep me going. Charles was (and still is) a good, endlessly supportive friend. We still talk even after graduation.
 
 Anyway, in his office, I worked like crazy. I wanted to prove I could grow from nothing into a real director. I built and maintained connections with East Asian community organizations, helped host large campus events with hundreds of attendees, walked student clubs through funding and resource applications, and even mediated a few campus beefs.
@@ -33,11 +35,15 @@ Most importantly, I became close friends with my six Community Relations associa
 
 We eventually grew apart toward the end of college for many reasons, but I’ll always be grateful for that group. They and the work we did made me fall in love with the office, and even with student government, which I once thought was a joke. My department, my chiefs, Charles. They made it all worth it, despite whatever the public said about us. I grew as a leader precisely because of them.
 
+![My Community Relations Team](../images/ocp-cr.JPG)
+
 That same year, riding the wave of all that momentum, I also became the vice chair of the culture department at CPU. I’d been the one constantly taking initiative, leading projects, hosting fun events, and throwing parties so it felt natural to step up. 
 
 And then came Spring Foundation. With my confidence growing and my leadership instincts kicking in, I decided it was time to take another leap and get more involved there too. Spring was such a wholesome, quiet organization that I soon realized I might have been a little too ambitious – maybe even flamboyant, in how I worked. Around the people there, I learned that after you’ve thrown enough parties and done enough student politics, what you really need is a family to lean on.
 
 I learned that you can’t rush greatness. It’s built from small, often boring pieces of hard work. I learned that you need both ideals and practicality to turn dreams into something real. The more time I spent with the team, the more it felt like home. Spring Foundation was a family, and it always would be. By sophomore year, I wanted to bring that same feeling to the new students. So I ran for Internal Vice President. I’ll admit I got the position partly by leveraging my popularity, but I really believed I was doing it for the right reason. That semester, I organized a big retreat and invited alumni to join us at a huge Airbnb. I watched sixty Springers – old and new – sitting together on couches, talking with their hearts open. My heart felt open and full too.
+
+![Spring Foundation](../images/spring-foundation.JPG)
 
 Soon after Charles retired from the Senate at the end of his term. His successor and my colleague H (who prefers to stay anonymous) decided to run to continue the office’s legacy. Her term would begin our junior year. I campaigned for her again. She won. I got promoted again. By that point, I also started shifting gears at the CPU. I stopped throwing parties just for fun and began thinking about how to create events that brought more people in. In ways that actually meant something. I ran for chair of the culture department and got it.
 
@@ -45,9 +51,13 @@ By my junior year I was juggling three big roles (along with some small roles I 
 
 The first thing I did as chair at CPU was host a concert. Bruh it was so hard. Not because of the venue rental, the equipment, the coordination, the auditions, or the social media. It was hard because no one was doing anything. I ended up taking on everything myself until a few people finally showed up. We pulled the concert together, somehow. These people became some of my best friends for the rest of college and taught me how to look for the right people on the team.
 
+![Our Concert](../images/cpu-kcon.jpg)
+
 After that I was basically unstoppable. I did graphic design, ran marketing, talked to sponsors, worked with teams, got uninvolved people re-engaged, hosted and joined bondings, got absolutely wasted after those bondings, and once even jumped into a pool with the CPU dudes after our banquet. I felt young again like a freshman, but this time it made sense because I had my people, my team, my rhythm.
 
 Later that year, I helped host a Chinese New Year banquet with the same crew. We were way more experienced by then. The logistics, the venue, the performances. Everything clicked. It went beautifully. I finally had a fully functioning team and I was leading it. We worked hard, we had fun, and we had each other. 
+
+![Pool Party](../images/cpu-pool.jpg)
 
 Work in the student government got a little heated too, not only because of some of the geopolitical tensions that started to arise in the world (we tried our best to remain understanding but not involved in these, given our student status in this country), but also because the Berkeley International Office (BIO) was underfunded. International students therefore faced serious service delays. Along with H, we advocated for permanent funding of at least $700,000 for the international office. We partnered with the BIO director.
 
@@ -63,19 +73,25 @@ So I started prepping promptly. By then, I had already retired from my role in S
 
 Once I had a team of around 25 people, I stopped recruiting and started planning my community initiatives. Because I knew I was rather popular, I didn’t put too much effort into outreach or community relations. It turned out to be a big mistake.
 
-I underestimated the intensity of a campaign. I remember someone calling me while I was waiting in line at a Korean restaurant with my CPU friends. She scolded me madly for absolutely no reason. I cried in the back of the plaza where we ate. I remember my friends telling me that people in the caucus were saying bad things about me to stop me from being endorsed as the #1 candidate. That whole caucus meeting was designed to delegitimize my campaign. I cried again, but silently. Ugh, student politics. A bunch of immature people pretending to be mature. It was so fun. At least that was what I thought back then. People hate for no reason when there are conflicts of interest.
+I underestimated the intensity of a campaign. I remember someone calling me while I was waiting in line at a Korean restaurant with my CPU friends. She scolded me madly for absolutely no reason. I cried in the back of the plaza where we ate. I remember my friends telling me that people in the caucus were saying bad things about me to stop me from being endorsed as the #1 candidate. That whole caucus meeting was designed to delegitimize my campaign. I cried again, but silently. _Ugh, student politics. A bunch of immature people pretending to be mature._ At least that was what I thought back then. People hate for no reason when there are conflicts of interest.
 
 But I also remember crying in the library while H’s chiefs of staff hugged me, hiding me from others to give me a safe space. I remember my friends at CPU writing a surprise public article to fully endorse me and publicize my campaign. I remember Charles, H, and my campaign managers working alongside me day and night to get me elected. I remember the nights when I was so anxious I thought I needed to drink to escape it all. And my friends showed up outside my apartment, unannounced, just to give me hugs while I got absolutely drunk.
 
 And because of that love – and even because of the “hate” (of course they didn’t really hate me; they were just scared, like everyone else during campaign season) – I got elected, and I ranked high. On tabulation day, as I ran onto the stage with tears in my eyes, I almost saw the freshman version of myself sitting in the back of the room in her party outfit, looking at me and smiling. We were both fearless and beautiful. The freshman me was fearless because she went out and did bold things to make herself fulfilled. I, too, was fearless as a senator-elect because I could now do the same for my community.
 
+![Senator Elect Tong](../images/senator-elect-group.JPG)
+
 In my senior year, I retired from CPU. I had served long enough to become a senior advisor. I dedicated that entire year to my Senate office, along with my honors thesis, grad school applications, and classes.
 
 Alas, running the Office of ASUC Senator Ellen Tong has been the most difficult and rewarding thing I have ever done. Despite all the chaos and “beefs” in my office, in the Senate, and across campus – which we managed to resolve with patience and maturity, we accomplished more than I ever imagined. We published over 100 articles, passed a Senate resolution, continued pushing for increased funding for the international office, and secured a temporary $300,000 (although we are far from our goal). We hosted countless community events, just as I had promised when I ran as a community-driven senator. I got to know more people, listened to their stories, and learned how to truly listen, without judgment, without defense. I helped my successor with her campaign. She got elected, too, and is currently serving as a Senator for the 2025-25 school year, helping the Berkeley International Office to continue securing the basic, stable funding it deserves.
 
+![ASUC Lineage](../images/asuc-lineage.JPG)
+
 I still don’t write legal documents that well, and I’m still learning what it means to be an advocate. Without my office, I am nothing. There, I met 35 incredible people who helped me, supported me, educated me, relied on me, made jokes and memes about me, and hugged me whenever I felt small.
 
 They reminded me that I’m not just a senator. I’m also a student, a friend, a daughter, a little girl, even though everyone has called me “big sister” since junior year. I am so grateful. There isn’t a word big enough for it. I have never once regretted that beautifully irrational decision I made on that chilly November night to run for Senate.
+
+![My Office](../images/oet-final.JPG)
 
 I grew a ton from these experiences. And from the people, more importantly. They’ve taken me to Harvard, to all the top education schools in the United States, and to a more mature, more forgiving, more resilient version of myself.
 
