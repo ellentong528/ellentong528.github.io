@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Student Leadership"
+title: "My Communities"
 permalink: /student-leadership/
 author_profile: true
 ---
