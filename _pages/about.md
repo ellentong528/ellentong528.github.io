@@ -11,8 +11,8 @@ Hi all! My name is Ellen Tong. I grew up in Beijing, China and have been a proud
 
 If you’re interested in my **overall experiences** as an undergraduate (TLDR), please refer to my [Resume/CV](/cv) page.
 
-If you’d like to learn more about **who I am as a person** and what I did in my college community along the way, please refer to my [Student Leadership](/student-leadership) page.
-
 If you’re curious about my **academic and intellectual interests** and how I found my favorite field, please refer to my [Research](/research) page.
+
+If you’d like to learn more about **who I am as a person** and what I did in my college community along the way, please refer to my [Student Leadership](/student-leadership) page.
 
 <img src="../images/IMG_8925.jpg" style="width:500px;">
