@@ -11,9 +11,11 @@ main:
     
   - title: "Resume/CV"
     url: /cv/
-
+    
+  - title: "Research"
+    url: /research/
+    
   - title: "Student Leadership"
     url: /student-leadership/
 
-  - title: "Research"
-    url: /research/
+
