@@ -9,8 +9,8 @@
 
 main:
     
-  - title: "Resume/CV"
-    url: /cv-json/
+  - title: "CV"
+    url: /files/Winter25 CV Template (Research).pdf
     
   - title: "Research"
     url: /research/
@@ -18,6 +18,5 @@ main:
   - title: "Student Leadership"
     url: /student-leadership/
 
-  - title: "CHANGE ME"
-    url: /files/Winter25 CV Template (Research).pdf
+
 
