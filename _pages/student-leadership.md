@@ -7,7 +7,7 @@ author_profile: true
 
 In high school, I somehow ended up with five different student leadership roles in one year. And ever since, the school hasn’t let anyone do that again. Technically, they were “leadership” positions, but most of what I did was just take directions from teachers and then tell my team to do the same thing. Still, it was fun. I was always surrounded by people and I kind of loved that. Of course, I wasn’t a leader. _But being a social butterfly was close enough,_ I thought.
 
-When I got to college, I did turn into a total social butterfly – partly because of what I’d done in high school, and partly because I was just good at making friends. But it got a little out of hand. That first fall semester, I basically spent every night hanging out with people until seven in the morning, waking up at five in the evening, and starting my “day” when it was already dark outside. Now I weirdly miss that time when life didn’t have to make any f-ing sense.
+When I got to college, I did turn into a total social butterfly – partly because of what I’d done in high school, and partly because I was just good at making friends. But it got a little out of hand. That first fall semester, I basically spent every night hanging out with people until seven in the morning, waking up at five in the evening, and starting my “day” when it was already dark outside. Now I weirdly miss that time when life didn’t have to make any sense.
 
 In late fall 2021, my friend Charles told me about his terrifying plan to run for student senate. He educated me that it was called the Associated Students of the University of California, or the ASUC for short. _Oh, fancy,_ I thought, _but no thanks…?_ I laughed it off because it sounded impossible. Still, because I was the slightly more popular one I told him I’d help with his campaign if he actually did it, which he probably would not. I didn’t hate student government or anything. I just thought it was kind of a joke back then.
 
@@ -57,8 +57,6 @@ After that I was basically unstoppable. I did graphic design, ran marketing, tal
 
 Later that year, I helped host a Chinese New Year banquet with the same crew. We were way more experienced by then. The logistics, the venue, the performances. Everything clicked. It went beautifully. I finally had a fully functioning team and I was leading it. We worked hard, we had fun, and we had each other. 
 
-![Pool Party](../images/cpu-pool.jpg)
-
 Work in the student government got a little heated too, not only because of some of the geopolitical tensions that started to arise in the world (we tried our best to remain understanding but not involved in these, given our student status in this country), but also because the Berkeley International Office (BIO) was underfunded. International students therefore faced serious service delays. Along with H, we advocated for permanent funding of at least $700,000 for the international office. We partnered with the BIO director.
 
 This work was very different from what I had done in the past in its professionalism, relevance, and urgency for one of the communities I served and belonged to. For the first time, I saw how hard it is to navigate the bureaucracy of a higher education institution. I also saw how hard it was to persuade the adults at a formal discussion table. That year, we didn’t secure funding for the international office. H’s term flew by quickly. She did a great job, but everyone was frustrated because of the funding stuff. But apparently, someone needed to keep going. To stay, to save our seat in the Senate, to wait for a potential harvest, even if we didn’t know whether the years ahead would be fruitful.
@@ -99,4 +97,4 @@ Reflecting back, I realized that sometimes I don’t really like the word “lea
 
 In one year, five years, ten years, and for the rest of my life, I hope I’ll still be surrounded by people who make me feel loved and inspired by the new connections I’ll create. And I hope I’ll continue to show my care and service to them as openly and unconditionally as I always have. 
 
-So much shit happens in today’s world. If people can hate each other for no reason, my communities have reminded me that I can love in the same way.
+So many things happens in today’s world. If people can hate each other for no reason, my communities have reminded me that I can love in the same way.
