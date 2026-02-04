@@ -22,9 +22,7 @@ I came to realize that asking this question was itself the answer, so I kept it 
 Volunteer service organizing
 ======
 
-Beyond my more formal roles, I have always believed that college should leave room for joy; for people to spend time together and have fun. I began by attending and hosting informal gatherings in my apartment and at frat houses and ended up bringing my party instincts into these social spaces in a way that felt both positive and inviting.
-
-Throughout my years in college, I organized or helped organize three of the largest singing competitions in my Chinese student community, held in campus auditoriums, as well as two Chinese New Year galas and four poker tournaments along with other miscellaneous events. I learned how to manage budgets, coordinate with campus partners, work with professional audiovisual and lighting teams, negotiate with external sponsors, and lead teams through the long and often chaotic process of turning plans into live events.
+Throughout my four years in college, I was involved in organizing volunteer programs that aimed to bridge educational resource gaps for children in China. Interestingly, I rarely appeared at the front of these efforts. Instead, I served as the internal vice president of my team and focused on organizing internal events and holding the group together. I learned more from this role than I expected.
 
 First, I came to realize that while publicity matters in an educational organization, it means little without a team that feels connected and supported. I returned to the same question again and again: _What does it take to build a team where people feel safe to speak, to disagree, and to contribute honestly, even when we come from different backgrounds?_ I organized large-scale team bonding events that allowed people to know one another beyond their roles. Inviting alumni from the Bay Area to join us helped situate our work within a longer history and reminded us that we were part of something larger than any single project.
 
@@ -38,9 +36,9 @@ Another lesson I have learned as I oversaw project team operations was that I be
 Large-scale community events
 ======
 
-Besides my more professional work, I still believe that people need to spend time and have fun together in college. I started with attending and hosting small parties and DJ'ing in my apartment and frat houses and brought my organization skills to my entire community in an engaging way.
+Beyond my more formal roles, I have always believed that college should leave room for joy; for people to spend time together and have fun. I began by attending and hosting informal gatherings in my apartment and at frat houses and ended up bringing my party instincts into these social spaces in a way that felt both positive and inviting.
 
-Throughout my years in college, I have organized or helped organize three largest singer contests in my Chinese student community in our school auditoriums, along with two Chinese New Year gala and four Poker contests. Through these fun experiences, I have also practiced managing budgets, working with campus partners, working with professional tech (like AV or lighting), negotiating with external sponsors and partners, and leading a team to bring everything we planned to the stage.
+Throughout my years in college, I organized or helped organize three of the largest singing competitions in my Chinese student community, held in campus auditoriums, as well as two Chinese New Year galas and four poker tournaments along with other miscellaneous events. I learned how to manage budgets, coordinate with campus partners, work with professional audiovisual and lighting teams, negotiate with external sponsors, and lead teams through the long and often chaotic process of turning plans into live events.
 
 Being behind the scenes felt just as meaningful as standing on the stage as a senator. I like hearing the crowd cheer as I watch from the back of the room.
 
