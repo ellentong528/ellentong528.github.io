@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Student Leadership"
+title: ""
 permalink: /student-leadership/
 author_profile: true
 ---
@@ -17,6 +17,7 @@ I came to realize that asking this question was itself the answer, so I kept it 
 <br>
 <img src="../images/asuc-collage.png" style="width:750px;">
 <br>
+<br>
 
 Volunteer service organizing
 ======
@@ -32,6 +33,7 @@ Another lesson I have learned as I oversaw project team operations was that I be
 <br>
 <img src="../images/spring-collage.png" style="width:750px;">
 <br>
+<br>
 
 Large-scale community events
 ======
@@ -44,6 +46,7 @@ Being behind the scenes felt just as meaningful as standing on the stage as a se
 
 <br>
 <img src="../images/cpu-collage.png" style="width:750px;">
+<br>
 <br>
 
 What do all these have to do with my research?
