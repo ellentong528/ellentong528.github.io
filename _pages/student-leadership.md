@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Student Leadership"
 permalink: /student-leadership/
 author_profile: true
 ---
@@ -8,7 +8,7 @@ author_profile: true
 Student governance
 ======
 
-One of the earliest lessons I was taught by others about leadership is that it should begin within one’s own community, because leadership is most meaningful when grounded in a sense of belonging. For me, this work began in student government at UC Berkeley, where I worked with student body senators representing international students and East Asian communities, two groups I have come to consider my home away from home. By my senior year, I was elected as a senator myself, serving international students and East Asian-identifying students across campus.
+One of the earliest lessons I was taught by others about leadership is that it should begin within one’s own community, because leadership is most meaningful when grounded in a sense of belonging. For me, this work began in student government at UC Berkeley, where I worked with student body senators representing international students and East Asian communities, two groups I have considered my home away from home. By my senior year, I was elected as a senator myself, serving international students and East Asian-identifying students across campus.
 
 Within student government, however, it is easy to fall into a particular trap. At the heart of student governance, it is often easy to be loud, but difficult to be precise; easy to lead and advocate, but difficult to do it with empathy. And at one point during my term, I realized that leadership can become overly entangled with abstract notions of a “community” at the expense of serving the very individuals who constitute it. *How do I make sure I am making a real impact beyond the podium and without the microphone?*
 
@@ -47,7 +47,7 @@ Being behind the scenes felt just as meaningful as standing on the stage as a se
 <br>
 <br>
 
-What do all these have to do with my research?
+Moving forward...
 ======
 
 I have always believed that a research community should be as vibrant as a young campus, even if that vibrancy takes a quieter form sometimes. I often hear from my PhD friends that research can be tedious and extenuating work, but I want to make it as lively as possible both for myself and for those around me. My leadership experiences have given me both the pride and the humility to value collective effort, as well as the real capacity to help build that kind of environment.
