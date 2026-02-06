@@ -9,7 +9,7 @@ redirect_from:
 
 I have always enjoyed working with children in my research journey (feel free to read my [full story](research-story.md) for a more casual narrative). As an undergrad at UC Berkeley, I was a research assistant in the [Computation and Language Lab](https://colala.berkeley.edu/), and a lead research assistant and honors thesis student at the [Berkeley Early Learning Lab](https://babylab.berkeley.edu/). I wrote my honors thesis under the mentorship of Professor Fei Xu on young children's understanding of posterior probabilities ([thesis](/files/Tong-E-Thesis-Sp25.pdf); [poster](/files/tong-thesis-poster.pdf); you can also find details of my research below). I am currently a master's student at the Harvard Graduate School of Education, and have been a research assistant in the [Snedeker Lab](https://www.harvardlds.org/our-labs/snedeker-lab/) in the Department of Psychology and in the [Child-Centered AI Lab](https://childcenteredai.org/research/) at the Harvard Graduate School of Education since Fall 2025. These experiences have largely shaped my research interest. 
 
-**I am broadly interested in how children make efficient decisions in a highly complex and uncertain world.** At this stage, my interests are more exploratory than cohesive because I am eager to engage with multiple domains of cognition to better understand their interconnections. In particular, I am currently interested in the following questions:
+**I am broadly interested in how children make decisions in a highly complex and uncertain world.** At this stage, my interests are more exploratory than cohesive because I am eager to engage with multiple domains of cognition to better understand their interconnections. In particular, I am currently interested in the following questions:
 
 (1) When confronting uncertainty, do children reason logically (by simulating all possible outcomes) or probabilistically?
 
@@ -139,7 +139,7 @@ Please click on the dropdown with my research questions to check out details and
   <br>
 
   I am currently involved in a project examining how verbal social cues that imply human-likeness (such as humor, praise, or expressions of gratitude) shape children’s judgments about the source of information provided by a voice-based agent.
-  
+
   <br>
 
   In this study, children aged 4 to 11 first hear a question and then listen to responses delivered by either human or AI-generated voices. Half of the responses include a social cue, while the other half do not. Children are then asked to judge whether the speaker providing the response is human or artificial. 

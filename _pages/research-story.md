@@ -13,7 +13,7 @@ This page is still under development. I’ll be back soon with a more thoughtful
 
 I started babysitting in middle school and got along with every child I met. In addition to that, about half of my family members are current or former educators. From a very young age, I knew I wanted to work with young children and, as I grew older, that I wanted to study a related field.
 
-Ironically, I had never thought I would pursue research until my third year in college, nor had I imagined attempting a PhD. For most of my family members, loving a group of people meant serving them in the most concrete ways possible. I agreed, and knew that research was probably not the most hands-on approach to sere children. For a long time, I imagined my future in a kindergarten or elementary school and felt a very strong pull toward teaching and leading a real classroom, and because I am an extrovert, no one ever doubted my goal.
+Ironically, I had never thought I would pursue research until my third year in college, nor had I imagined attempting a PhD. For most of my family members, loving a group of people meant serving them in the most concrete ways possible. I agreed, and knew that research was probably not the most hands-on approach to serve children. For a long time, I imagined my future in a kindergarten or elementary school and felt a very strong pull toward teaching and leading a real classroom, and because I am an extrovert, no one ever doubted my goal.
 
 <br> 
 
