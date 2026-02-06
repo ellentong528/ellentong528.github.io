@@ -37,9 +37,11 @@ Please click on the dropdown with my research questions to check out details and
 
   <summary>Probability Updating</summary>
   
-  ## Can children update their probabilistic judgments in light of new evidence (Berkeley Early Learning Lab; honors thesis)?
+  <br>
 
-  🏆 This is the topic of my honors thesis ([thesis](/files/Tong-E-Thesis-Sp25.pdf); [poster](/files/tong-thesis-poster.pdf)). In this [Departmental Citation-winning](https://babylab.berkeley.edu/livinglab#:~:text=Spring%202025,and%20leadership%20in%20the%20community.) (1 out of ~500 psychology graduates) honors thesis, I investigate young children's ability to reason about posterior probabilities using a new method. The paper that inspired this study was written by [Girotto & Gonzalez (2008)](https://www.sciencedirect.com/science/article/pii/S0010027707000613?via%3Dihub).
+  **Can children update their probabilistic judgments in light of new evidence (Berkeley Early Learning Lab; honors thesis)?** 🏆
+  
+  This is the topic of my honors thesis ([thesis](/files/Tong-E-Thesis-Sp25.pdf); [poster](/files/tong-thesis-poster.pdf)). In this [Departmental Citation-winning](https://babylab.berkeley.edu/livinglab#:~:text=Spring%202025,and%20leadership%20in%20the%20community.) (1 out of ~500 psychology graduates) honors thesis, I investigate young children's ability to reason about posterior probabilities using a new method. The paper that inspired this study was written by [Girotto & Gonzalez (2008)](https://www.sciencedirect.com/science/article/pii/S0010027707000613?via%3Dihub).
   
   Across two experiments, 4- to 6-year-old children (n = 72) played a game where they had to guess the color of a block that a robot sampled from an opaque jar. Children made an initial guess about the blocks' color, followed by a second guess after being told new information regarding the block's shape (posterior probability judgment). The image below shows our posterior probability trials (confirmation and disconfirmation).
 
@@ -57,8 +59,10 @@ Please click on the dropdown with my research questions to check out details and
 
   <summary>Reasoning About Possibilities</summary>
   
-  ## Can children represent multiple incompatible possibilities? Do they possess modal concepts (Berkeley Early Learning Lab)?
+  <br>
 
+  **Can children represent multiple incompatible possibilities? Do they possess modal concepts (Berkeley Early Learning Lab)?**
+  
   It's fair to say research in this area has been shaped by serendipity. When I took my first developmental psychology course in my sophomore year, a single paper -- the Mody & Carey (2016) cups task -- introduced me to the field. Later, when I joined the Berkeley Early Learning Lab without a clear sense of what I would contribute, I ended up working on the very line of research that had first drawn me to developmental science.
 
   In this updated study, we designed a gumball machine task for three-year-olds (for a detailed description, please see my PhD student mentor's [paper](https://www.sciencedirect.com/science/article/pii/S0010027723001063)). Three-year-olds were asked to choose between a gumball machine that *must* produce the gumball color of interest and the other machine that only *might* produce the color. 
@@ -81,8 +85,10 @@ Please click on the dropdown with my research questions to check out details and
 
   <summary>Compositionality</summary>
   
-  ## Does compositional thinking emerge before compositional language (Snedeker Lab)?
+  <br>
 
+  **Does compositional thinking emerge before compositional language (Snedeker Lab)?**
+  
   Language is compositional: we combine words into phrases, and phrases into sentences to convey meaning. In this study, we investigate whether infants can combine smaller units of information before they fully acquire language. We focus on the domain of physical reasoning, as prior research suggests that infants are capable of sophisticated reasoning in this domain early in development. Through this study, we explore the early conceptual building blocks that might later support language development.
 
   In this study that we are currently working on, we show infants two physical events: pushing a cube and smashing a cube. If infants can compose these two physical functions, then they would show a violation-of-expectation effect and look longer at the unexpected outcome. For example, if the cube first appears on the right of the screen and smashing occurs on the left of the screen, followed by pushing the cube from right to left, then infants should expect to see an intact cube ending up on the left of the screen after the occluder is lifted. On the contrary, if we reverse the order of the two physical functions, when infants should expect to see the cube, smashed, on the left side of the screen. 
@@ -103,7 +109,9 @@ Please click on the dropdown with my research questions to check out details and
 
   <summary>Children's Perception of Social Cues in Voice-Based Agents</summary>
   
-  ## Do verbal social cues impact children's judgments about the speaker's identity (human vs. AI; Child-Centered AI Lab at HGSE)?
+  <br>
+  
+  **Do verbal social cues impact children's judgments about the speaker's identity (human vs. AI; Child-Centered AI Lab at HGSE)?**
 
   I am currently involved in a project examining how verbal social cues that imply human-likeness (such as humor, praise, or expressions of gratitude) shape children’s judgments about the source of information provided by a voice-based agent.
 
