@@ -26,7 +26,6 @@ I have always enjoyed working with children in my research journey (feel free to
 
 Currently, my research experiences and interests still feel somewhat siloed, but this in turn presents an exciting opportunity to continue learning across different areas of developmental cognition. My goal is to deepen both my theoretical knowledge and methodological skills so that I can make more informed decisions as I refine my research interests and eventually pursue my own independent lines of inquiry. I am so excited about the opportunities ahead. For now, though, feel free to check out what I have done in the past!
 
-<br>
 
 ## Research Project Involvement
 
