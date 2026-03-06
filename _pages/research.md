@@ -76,11 +76,7 @@ Please click on the dropdown with my research questions to check out details and
   In this study that we are currently working on, we show infants two physical events: pushing a cube and smashing a cube. If infants can compose these two physical functions, then they would show a violation-of-expectation effect and look longer at the unexpected outcome. For example, if the cube first appears on the right of the screen and smashing occurs on the left of the screen, followed by pushing the cube from right to left, then infants should expect to see an intact cube ending up on the left of the screen after the occluder is lifted. On the contrary, if we reverse the order of the two physical functions, when infants should expect to see the cube, smashed, on the left side of the screen.
 
   <img src="../images/FunComp_lookit_cover.png" style="width:500px;">
-  <br>
-  Check out the cover I made for our study on Children Helping Science!
   
-  <br>
-
   Success on this task indicates that infants understand that the order of the functions can influence the outcome, ad would suggest an early ability to compose.
 
 </details>
