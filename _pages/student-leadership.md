@@ -5,8 +5,7 @@ permalink: /student-leadership/
 author_profile: true
 ---
 
-Student governance
-======
+## Student governance
 
 One of the earliest lessons I was taught by others about leadership is that it should begin within one’s own community, because leadership is most meaningful when grounded in a sense of belonging. For me, this work began in student government at UC Berkeley, where I worked with student body senators representing international students and East Asian communities, two groups I have considered my home away from home. By my senior year, I was elected as a senator myself, serving international students and East Asian-identifying students across campus.
 
@@ -19,8 +18,7 @@ I came to realize that asking this question was itself the answer, so I kept it 
 <br>
 <br>
 
-Volunteer service organizing
-======
+## Volunteer service organizing
 
 Throughout my four years in college, I was involved in organizing volunteer programs that aimed to bridge educational resource gaps for children in China. Interestingly, I rarely appeared at the front of these efforts. Instead, I served as the internal vice president of my team and focused on organizing internal events and holding the group together. I learned more from this role than I expected.
 
@@ -33,8 +31,7 @@ Another lesson I have learned as I oversaw project team operations was that I be
 <br>
 <br>
 
-Large-scale community events
-======
+## Large-scale community events
 
 Beyond my more formal roles, I have always believed that college should leave room for joy; for people to spend time together and have fun. I began by attending and hosting informal gatherings in my apartment and at frat houses and ended up bringing my party instincts into these social spaces in a way that felt both positive and inviting.
 
@@ -47,8 +44,7 @@ Being behind the scenes felt just as meaningful as standing on the stage as a se
 <br>
 <br>
 
-Moving forward...
-======
+## Moving forward... ##
 
 I have always believed that a research community should be as vibrant as a young campus, even if that vibrancy takes a quieter form sometimes. I often hear from my PhD friends that research can be tedious and extenuating work, but I want to make it as lively as possible both for myself and for those around me. My leadership experiences have given me both the pride and the humility to value collective effort, as well as the real capacity to help build that kind of environment.
 
