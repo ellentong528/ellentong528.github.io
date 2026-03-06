@@ -33,7 +33,7 @@ Please click on the dropdown with my research questions to check out details and
 
 <details markdown="1">
 
-  <summary>Probability Updating</summary>
+  <summary><b style="font-size: 1.2em;">Probability Updating</b></summary>
 
 
   <b>Can children update their probabilistic judgments in light of new evidence (Berkeley Early Learning Lab; honors thesis)?</b>
@@ -48,7 +48,7 @@ Please click on the dropdown with my research questions to check out details and
 
 <details markdown="1">
 
-  <summary>Reasoning About Possibilities</summary>
+  <summary><b style="font-size: 1.2em;">Reasoning About Possibilities</b></summary>
 
 
   <b>Can children represent multiple incompatible possibilities? Do they possess modal concepts (Berkeley Early Learning Lab)?</b>
@@ -65,7 +65,7 @@ Please click on the dropdown with my research questions to check out details and
 
 <details markdown="1">
 
-  <summary>Compositionality</summary>
+  <summary><b style="font-size: 1.2em;">Compositionality</b></summary>
 
 
   <b>Does compositional thinking emerge before compositional language (Snedeker Lab)?</b>
@@ -82,7 +82,7 @@ Please click on the dropdown with my research questions to check out details and
 
 <details markdown="1">
 
-  <summary>Children's Perception of Social Cues in Voice-Based Agents</summary>
+  <summary><b style="font-size: 1.2em;">Children's Perception of Social Cues in Voice-Based Agents</b></summary>
 
 
   <b>Do verbal social cues impact children's judgments about the speaker's identity (human vs. AI; Child-Centered AI Lab at HGSE)?</b>
