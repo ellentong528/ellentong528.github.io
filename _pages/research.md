@@ -38,7 +38,7 @@ Please click on the dropdown with my research questions to check out details and
 
   <b>Can children update their probabilistic judgments in light of new evidence (Berkeley Early Learning Lab; honors thesis)?</b>
 
-  🏆 This is the topic of my honors thesis (<a href="../files/tong-thesis-poster.pdf">thesis</a >; <a href="../files/tong-thesis-poster.pdf">poster</a >). In this Departmental Citation-winning (1 out of ~500 psychology graduates) honors thesis, I investigate young children's ability to reason about posterior probabilities using a new method. The paper that inspired this study was written by <a href="https://www.sciencedirect.com/science/article/pii/S0010027707000613?via%3Dihub">Girotto & Gonzalez (2008)</a >.
+  🏆 This is the topic of my honors thesis (<a href="../files/Tong-E-Thesis-Sp25.pdf">thesis</a >; <a href="../files/tong-thesis-poster.pdf">poster</a >). In this Departmental Citation-winning (1 out of ~500 psychology graduates) honors thesis, I investigate young children's ability to reason about posterior probabilities using a new method. The paper that inspired this study was written by <a href="https://www.sciencedirect.com/science/article/pii/S0010027707000613?via%3Dihub">Girotto & Gonzalez (2008)</a >.
 
   Across two experiments, 4- to 6-year-old children (n = 72) played a game where they had to guess the color of a block that a robot sampled from an opaque jar. Children made an initial guess about the blocks' color, followed by a second guess after being told new information regarding the block's shape (posterior probability judgment).
 
