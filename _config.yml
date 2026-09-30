@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Ellen Tong"
 title_separator          : "-"
 name                     : &name "Ellen Tong"
-description              : &description "Lol hi this is Ellen"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Lol hi this is Ellen and this page is still being developed"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://ellentong528.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,11 +26,11 @@ author:
   avatar           : "tyl.jpeg"
   name             : "Ellen Tong"
   pronouns         : "she/her"  
-  bio              : "Ed.M. in Human Development and Education at the Harvard Graduate School of Education"
-  location         : "Cambridge, MA"
-  employer         : "Harvard University"
+  bio              : "Lab Manager @ Brain and Cognitive Development Lab"
+  location         : "Champaign, IL"
+  employer         : "University of Illinois, Urbana-Champaign"
   uri              : # URL
-  email            : "ellentong@gse.harvard.edu" 
+  email            : "etong@illinois.edu" 
 
   # Academic websites
   academia         : # URL
@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=HdBPAkYAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0003-3133-904X"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
@@ -61,7 +61,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "ellentong528"
   lastfm           : # Username
   linkedin         : "ellen-tong-7a2704231"
   mastodon         : # URL
