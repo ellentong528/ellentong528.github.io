@@ -7,25 +7,9 @@ redirect_from:
   - /research
 ---
 
-I have always enjoyed working with children in my research journey (feel free to read my [full story](research-story.md) for a more casual narrative). As an undergrad at UC Berkeley, I was a research assistant in the [Computation and Language Lab](https://colala.berkeley.edu/), and a lead research assistant and honors thesis student at the [Berkeley Early Learning Lab](https://babylab.berkeley.edu/). I wrote my honors thesis under the mentorship of Professor Fei Xu on young children's understanding of posterior probabilities ([thesis](/files/Tong-E-Thesis-Sp25.pdf); [poster](/files/tong-thesis-poster.pdf); you can also find details of my research below). I am currently a master's student at the Harvard Graduate School of Education, and have been a research assistant in the [Snedeker Lab](https://www.harvardlds.org/our-labs/snedeker-lab/) in the Department of Psychology and in the [Child-Centered AI Lab](https://childcenteredai.org/research/) at the Harvard Graduate School of Education since Fall 2025. These experiences have largely shaped my research interest. 
+I have always enjoyed working with children in my research journey (feel free to read my [full story](research-story.md) for a more casual narrative). As an undergrad at UC Berkeley, I was a research assistant in the [Computation and Language Lab](https://colala.berkeley.edu/), and a lead research assistant and honors thesis student at the [Berkeley Early Learning Lab](https://babylab.berkeley.edu/). I wrote my honors thesis under the mentorship of Professor Fei Xu on young children's understanding of posterior probabilities ([thesis](/files/Tong-E-Thesis-Sp25.pdf); [poster](/files/tong-thesis-poster.pdf); you can also find details of my research below). While at Harvard, I was a research assistant in the [Snedeker Lab](https://www.harvardlds.org/our-labs/snedeker-lab/) in the Department of Psychology and in the [Child-Centered AI Lab](https://childcenteredai.org/research/) at the Graduate School of Education since Fall 2025. These experiences have largely shaped my research interest. 
 
-**I am broadly interested in how children make decisions in a highly complex and uncertain world.** At this stage, my interests are more exploratory than cohesive because I am eager to engage with multiple domains of cognition to better understand their interconnections. In particular, I am currently interested in the following questions:
-
-1. When confronting uncertainty, do children reason logically (by simulating all possible outcomes) or probabilistically?
-
-    * This interest was first inspired by a review article by [Denison & Xu (2019)](https://journals.sagepub.com/doi/10.1177/1745691619847201). This has sparked my interest in how children represent and reason about uncertainties since finishing my honors thesis.
-
-2. My second question is a rather broad and actively debated question: How, if at all, do children reason using structured forms of thought (e.g., categorical or conditional syllogisms)? Does reasoning based on such structures require language? More broadly, what can empirical evidence reveal about the nature and format of these underlying "mentalese"?
-
-    * This interest was inspired by my research in the Berkeley Early Learning Lab on a preschooler disjunction study, as well as recurring discussions in the Snedeker Lab surrounding the *Language of Thought* hypothesis.
-    * My current mentor's project examining whether compositional thought precedes compositional language (a project to which I am actively contributing) is also a great source of inspiration.
-
-3. As a curious extension of my honors thesis, I am interested in when children choose to override logically or probabilistically optimal decisions in favor of socially closer relationships, even when doing it entails a lower chance of successful helping.
-
-    * This is a relatively new and still evolving idea for me. Broadly speaking, I am interested in how social forces shape and guide decision-making and hope to incorporate my research on children's reasoning into research on social cognition.
-
-Currently, my research experiences and interests still feel somewhat siloed, but this in turn presents an exciting opportunity to continue learning across different areas of developmental cognition. My goal is to deepen both my theoretical knowledge and methodological skills so that I can make more informed decisions as I refine my research interests and eventually pursue my own independent lines of inquiry. I am so excited about the opportunities ahead. For now, though, feel free to check out what I have done in the past!
-
+**I am broadly interested in how children make decisions in a highly complex and uncertain world.** At this stage, my interests are more exploratory than cohesive because I am eager to engage with multiple domains of cognition to better understand their interconnections. Check out research studies I was a part of below:
 
 ## Research Project Involvement
 
